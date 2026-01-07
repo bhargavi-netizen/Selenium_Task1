@@ -16,8 +16,11 @@ of a sample web application using Selenium WebDriver.
 
 ## Files
 - login_navigation_test.py
-
-- [login_navigation_test.py](https://github.com/user-attachments/files/24475713/login_navigation_test.py)
-
-- 
 - Test_Execution_Report.txt
+- 
+
+# output windows
+-command prompt output
+<img width="831" height="241" alt="Image" src="https://github.com/user-attachments/assets/1d2292de-da88-4012-93de-181cb2516cdd" />
+
+
