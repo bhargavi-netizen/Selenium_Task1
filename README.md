@@ -46,8 +46,6 @@ This project demonstrates practical knowledge of test automation, browser intera
 
 
 # output windows
--command prompt output
-<img width="831" height="241" alt="Image" src="https://github.com/user-attachments/assets/1d2292de-da88-4012-93de-181cb2516cdd" />
 
 -login page
 <img width="1861" height="823" alt="Image" src="https://github.com/user-attachments/assets/f7492544-e144-4ec5-896e-d5efea3441fe" />
