@@ -6,18 +6,44 @@
 Test Automation Using Selenium
 
 ## Description
-This project automates the login and navigation functionality
-of a sample web application using Selenium WebDriver.
+As part of internship at CODETECH IT SOLUTIONS I was assigned a task in the domain of Software Testing. specially to automate the testing of a sample web application using Selenium WebDriver.The goal of this task was to create a script that cloud verify the login functionality and navigation of a web application and generate a detailed test showing the results of the execution 
+This project was developed as part of my internship at **CODETECH IT SOLUTIONS** under the **Software Testing** domain.
+The objective of this task was to automate the testing of a sample web application using **Selenium WebDriver**.
+
+The automation script verifies the **login functionality**, **navigation**, and **logout process** of the web application.
+After execution, the script generates a **detailed test execution report** that records the results of each test step.
+
+This project demonstrates practical knowledge of test automation, browser interaction, and result validation using Selenium with Python.
+
 
 ## Tools Used
-- Python
-- Selenium WebDriver
-- Mozilla Firefox
+* **Python**
+* **Selenium WebDriver**
+* **Mozilla Firefox**
+* **GeckoDriver**
 
+  
 ## Files
-- login_navigation_test.py
-- Test_Execution_Report.txt
-- 
+* **`login_navigation_test.py`**
+
+  * Python script that automates login, navigation, and logout functionality.
+* **`Test_Execution_Report.txt`**
+
+  * Text file containing detailed test execution results and status.
+
+
+
+## Test Scenarios Covered
+
+* Launching the web application
+* Validating login with credentials
+* Verifying successful navigation after login
+* Performing logout operation
+* Confirming redirection after logout
+
+
+
+
 
 # output windows
 -command prompt output
@@ -32,4 +58,12 @@ of a sample web application using Selenium WebDriver.
 
 -after logout page
 <img width="1618" height="688" alt="Image" src="https://github.com/user-attachments/assets/9cbfbf11-adf9-4d32-9589-ccd9fa6d1586" />
+
+
+
+## ✅ Conclusion
+
+This task helped in gaining hands-on experience with **Selenium WebDriver**, understanding automated test workflows, and generating execution reports.
+It strengthened practical skills in **software testing automation** and **Python scripting**.
+
 
