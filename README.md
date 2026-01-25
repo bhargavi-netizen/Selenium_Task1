@@ -7,7 +7,7 @@ Test Automation Using Selenium
 
 #Intern Name: Kota Vijaya Bhargavi
 
-#Intern ID: COD123
+#Intern ID: CTIS2146
 
 #Duration: 4 weeks
 
