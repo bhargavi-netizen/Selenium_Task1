@@ -1,4 +1,6 @@
 from selenium import webdriver
+from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.firefox.options import options
 from selenium.webdriver.common.by import By
 import time
 
@@ -30,4 +32,5 @@ print("Logout Message:",
       driver.find_element(By.ID, "flash").text)
 
 # Close browser
+
 driver.quit()
