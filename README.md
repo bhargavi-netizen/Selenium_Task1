@@ -45,8 +45,11 @@ This project demonstrates practical knowledge of test automation, browser intera
 
 ## Test Scenarios Covered
 URL: https://the-internet.herokuapp.com/login
+
 username:tomsmith
+
 password:SuperSecretPassword
+
 Automation Steps Performed:
 * Launching the web application
 * Validating login with credentials
